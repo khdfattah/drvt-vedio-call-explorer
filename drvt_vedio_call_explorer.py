@@ -175,7 +175,7 @@ x_min = min(400.0, min_l * 0.85)
 
 step = (x_max - x_min) / 150
 lambda_curve = [x_min + i * step for i in range(151)]
-xi_curve = [drvt(l) for l in lambda_curve]
+xi_curve = [drvt(l)[3] for l in lambda_curve]
 
 fig = go.Figure()
 
