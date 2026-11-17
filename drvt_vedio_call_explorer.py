@@ -61,8 +61,8 @@ st.title("📹 DRVT Video Call Explorer")
 st.markdown("""
 ### How does an image travel through a video call?
 
-Dynamic Resonant Volume Theory (DRVT) By: Dr. Khalid Abdel Fattah M. Osman
-
+Dynamic Resonant Volume Theory (DRVT) By: 
+Dr. Khalid Abdel Fattah M. Osman, Merowe University of Technology, Sudan
 The image propagates through different resonant states:
 
 **Camera → Silicon → Processor → Optical Fiber → GaAs Detector → Display**
